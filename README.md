@@ -1,4 +1,4 @@
-### 👋  Hello, I am Paul 👋
+### 👋  Hello, I am Paul Fairbanks 👋
 
 - 📚  Software Development Bootcamp Graduate.
 - 🔍  Skilled in HTML, CSS, JavaScript, Python, SQL & C#
