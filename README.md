@@ -1,4 +1,4 @@
-## 👋  Hello, I am Paul 👋
+## 👋  Hello 👋
 
   I enjoy learning, developing new skills and finding creative solutions to problems.
 
