@@ -7,5 +7,5 @@
  - 🏗   Django and .NET frameworks
  - 📧   Contact me: paulbanksinc16@gmail.com
  - 📍   Portfolio: http://paulfairbanksportfolio.com/
-<img src="https://github-readme-stats.vercel.app/api?username=pbanks74&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=pfairbanks74&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
